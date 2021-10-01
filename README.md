@@ -7,6 +7,8 @@ In this project, we have used Face Recognition System to mark the attendance.
 We have used Python libraries such as OpenCV, dlib and face_recognition.
   
 We have formed a dataset (folder named "Images") where we are pre registering the pictures of persons with their name as the filename.
+
+![4](https://user-images.githubusercontent.com/66938611/135632540-62616f39-79e3-4ce8-8f0e-9ecc44632f5b.PNG)
   
   
  # <h2> Requirements:  
