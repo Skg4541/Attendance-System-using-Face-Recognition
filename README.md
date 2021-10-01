@@ -33,4 +33,4 @@ Steps of Execution:
  # <h2> Outputs:  
    
    
-   <img width="960" alt="results" src="https://user-images.githubusercontent.com/68823461/135579046-7bb9711c-51f4-47fb-8e95-2bd902558996.PNG">
+   ![1](https://user-images.githubusercontent.com/66938611/135632120-d62a1e4f-70a0-4540-b9c4-6c4c876072d4.PNG)
