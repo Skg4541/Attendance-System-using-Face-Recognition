@@ -9,12 +9,12 @@ We have used Python libraries such as OpenCV, dlib and face_recognition.
 We have formed a dataset (folder named "Images") where we are pre registering the pictures of persons with their name as the filename.
   
   
-Requirements:  
+ # <h2> Requirements:  
   
   Mentioned in the requirements.txt  
    
   
-File Descriptions:  
+ # <h2> File Descriptions:  
   
   
 Recognize and manipulate faces from Python with the world's simplest face recognition library.
@@ -22,7 +22,7 @@ Built using dlib's state-of-the-art face recognition built with deep learning. T
 
 This also provides a simple face_recognition tool that lets you do face recognition on a folder of images !
   
-Steps of Execution:
+ # <h2> Steps of Execution:
     
   1. Install Opencv library.
   2. Install dlib library (Remember to first install dlib library before installing face_recognition). 
@@ -34,3 +34,6 @@ Steps of Execution:
    
    
    ![1](https://user-images.githubusercontent.com/66938611/135632120-d62a1e4f-70a0-4540-b9c4-6c4c876072d4.PNG)
+  
+   ![3](https://user-images.githubusercontent.com/66938611/135632303-cf3662de-d9d5-4795-9235-a13ecb6fa398.PNG)
+
